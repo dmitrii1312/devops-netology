@@ -24,3 +24,4 @@ terraform.rc - Будут игнорироваться файлы terraform.rc
 
 new line
 
+Push from IDE
